@@ -3,7 +3,7 @@
 # **Тема 2. Розгалуження та цикли**
 ---
 
-Виклик на сторінку: https://essencemaks.github.io/goit-js-hw-02/
+Виклик на сторінку: <a href="https://essencemaks.github.io/goit-js-hw-02/" target="_blank">https://essencemaks.github.io/goit-js-hw-02/</a>
 
 # **Задача 1. Замовлення дроїдів**
 
